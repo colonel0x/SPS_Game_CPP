@@ -1,0 +1,6 @@
+﻿  Project_Stone-Paber-Scissor.cpp
+C:\Users\Mr.x\Desktop\Project 1, course 5\Project_Stone-Paber-Scissor\Project_Stone-Paber-Scissor\Project_Stone-Paber-Scissor.cpp(248,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Mr.x\Desktop\Project 1, course 5\Project_Stone-Paber-Scissor\Project_Stone-Paber-Scissor\Project_Stone-Paber-Scissor.cpp(149,1): warning C4715: 'ShowResultRoundAndRegisterThem': not all control paths return a value
+C:\Users\Mr.x\Desktop\Project 1, course 5\Project_Stone-Paber-Scissor\Project_Stone-Paber-Scissor\Project_Stone-Paber-Scissor.cpp(185,1): warning C4715: 'Know_What_the_Computer_Choice': not all control paths return a value
+C:\Users\Mr.x\Desktop\Project 1, course 5\Project_Stone-Paber-Scissor\Project_Stone-Paber-Scissor\Project_Stone-Paber-Scissor.cpp(167,1): warning C4715: 'Know_What_the_User_Choice': not all control paths return a value
+  Project_Stone-Paber-Scissor.vcxproj -> C:\Users\Mr.x\Desktop\Project 1, course 5\Project_Stone-Paber-Scissor\x64\Debug\Project_Stone-Paber-Scissor.exe
